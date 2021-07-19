@@ -1,0 +1,10 @@
+$objectFit:cover;
+$vwWidth:100vw;
+$vhHeight:100vh;
+$position:fixed;
+
+@mixin small {
+    #polina {
+        width: 70%;
+    }
+}
